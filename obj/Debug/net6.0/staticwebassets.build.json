@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "cqYa55LiFww/XGrLhcSH/a8/vvTTHFDZZLiedr5Wf00=",
+  "Source": "OnlineFoodService_WebApi",
+  "BasePath": "_content/OnlineFoodService_WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
